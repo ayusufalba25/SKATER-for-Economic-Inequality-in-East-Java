@@ -1,0 +1,9 @@
+# Grouping Districts and Cities in East Java Based on Its Economic Inequality Metrics Through the Implementation of the SKATER Method
+
+![]()
+
+Check my medium story [**here**]() for more information about this project and its results.
+
+![]()
+
+Click [**here**]() to see the web app.
