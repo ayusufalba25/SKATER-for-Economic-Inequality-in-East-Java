@@ -4,6 +4,6 @@
 
 Check my medium story [**here**]() for more information about this project and its results.
 
-![]()
+![App Preview](https://github.com/ayusufalba25/SKATER-for-Economic-Inequality-in-East-Java/blob/master/Image/App%20Preview.png)
 
 Click [**here**]() to see the web app.
